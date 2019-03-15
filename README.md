@@ -1,4 +1,10 @@
-# ToDo
+Sir, you may have a lot of options,you might also find people much experienced, but I think you won't find the people who can beat my attitude.
+The internship profile and my skill set I see is 100 met and I don't find any reason why I should not be selected.
+I need a chance to learn  and explore myself which in a way will benificial to as well.
+The words just can't justify my actions until I get the right opportunity to perform. I will be very privileged if you avail me this opportunity.
+
+
+# to do
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
